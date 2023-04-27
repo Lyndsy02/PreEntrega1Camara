@@ -1,0 +1,25 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "tennis shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tennis",
+    "zapatillas",
+    "raquetas",
+    "pelotas",
+    "tenis"
+  ],
+  "author": "Lyndsy Camara",
+  "license": "ISC"
+
+ ,"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+}
+}
